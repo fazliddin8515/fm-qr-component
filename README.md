@@ -4,8 +4,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://github.com/fazliddin8515/fm-qr-component](https://github.com/fazliddin8515/fm-qr-component)
-- Live Site URL: [https://fazliddin8515.github.io/fm-qr-component/](https://fazliddin8515.github.io/fm-qr-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-Y5yiODj9Su](https://www.frontendmentor.io/solutions/qr-code-component-Y5yiODj9Su)
+- Live Site URL: [https://fazliddin8515.github.io/fm-qr-component](https://fazliddin8515.github.io/fm-qr-component)
+- Source Code URL: [https://github.com/fazliddin8515/fm-qr-component](https://github.com/fazliddin8515/fm-qr-component)
 
 ## My process
 
